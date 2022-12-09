@@ -19,6 +19,7 @@ db.connect((err) => {
   if (err) {
     console.log(err)
   }
+  console.log('Database connected')
 })
 
 module.exports = db
