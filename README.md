@@ -29,6 +29,7 @@ Run Project : npm start
 ## Related Project
 Frontend chatTelegram Application.\
 [frontend-telegramApp](https://github.com/taufikrmdhan/telegramApp)
+[deployement-telegramApp](https://telegram-app-pi.vercel.app/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
