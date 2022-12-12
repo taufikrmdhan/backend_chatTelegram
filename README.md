@@ -50,6 +50,8 @@ Frontend chatTelegram Application.\
 [frontend-telegramApp](https://github.com/taufikrmdhan/telegramApp)
 <br/>
 [deployement-telegramApp](https://telegram-app-pi.vercel.app/)
+<br/>
+[backend-telegramApp](https://backendchattelegram-production.up.railway.app/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
